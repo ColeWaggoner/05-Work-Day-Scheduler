@@ -3,7 +3,7 @@
 
 
   ## Description
-  This was built to utilize jQuery and localstorage.
+  This was built to utilize Day.js within jQuery and localstorage elements.
 
   ![License Badge](https://img.shields.io/badge/license-Unlicense-success?style=flat)
   ![Language badge](https://img.shields.io/github/languages/top/colewaggoner/05-Work-Day-Scheduler)
@@ -23,7 +23,8 @@
   
   
   ## Usage
-  None
+  Link to deployed page: 
+  https://colewaggoner.github.io/05-Work-Day-Scheduler/
   
   
   ## Contributions
